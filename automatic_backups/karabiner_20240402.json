@@ -1194,7 +1194,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "f7"
+                            "consumer_key_code": "rewind"
                         }
                     ]
                 },
@@ -1204,7 +1204,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "f8"
+                            "consumer_key_code": "play_or_pause"
                         }
                     ]
                 },
@@ -1214,7 +1214,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "f9"
+                            "consumer_key_code": "fast_forward"
                         }
                     ]
                 },
