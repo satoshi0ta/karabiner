@@ -79,6 +79,7 @@
                       "^org\\.macports\\.X11$",
                       "^com\\.sublimetext\\.",
                       "^com\\.microsoft\\.VSCode$",
+                      "^com\\.microsoft\\.VSCodeInsiders$",
                       "^com\\.todesktop\\.230313mzl4w4u92$"
                     ],
                     "type": "frontmost_application_unless"
@@ -142,6 +143,7 @@
                       "^org\\.macports\\.X11$",
                       "^com\\.sublimetext\\.",
                       "^com\\.microsoft\\.VSCode$",
+                      "^com\\.microsoft\\.VSCodeInsiders$",
                       "^com\\.todesktop\\.230313mzl4w4u92$"
                     ],
                     "type": "frontmost_application_unless"
@@ -205,6 +207,7 @@
                       "^org\\.macports\\.X11$",
                       "^com\\.sublimetext\\.",
                       "^com\\.microsoft\\.VSCode$",
+                      "^com\\.microsoft\\.VSCodeInsiders$",
                       "^com\\.todesktop\\.230313mzl4w4u92$"
                     ],
                     "type": "frontmost_application_unless"
@@ -313,6 +316,7 @@
                       "^org\\.macports\\.X11$",
                       "^com\\.sublimetext\\.",
                       "^com\\.microsoft\\.VSCode$",
+                      "^com\\.microsoft\\.VSCodeInsiders$",
                       "^com\\.todesktop\\.230313mzl4w4u92$"
                     ],
                     "type": "frontmost_application_unless"
@@ -376,6 +380,7 @@
                       "^org\\.macports\\.X11$",
                       "^com\\.sublimetext\\.",
                       "^com\\.microsoft\\.VSCode$",
+                      "^com\\.microsoft\\.VSCodeInsiders$",
                       "^com\\.todesktop\\.230313mzl4w4u92$"
                     ],
                     "type": "frontmost_application_unless"
@@ -563,6 +568,7 @@
                       "^org\\.macports\\.X11$",
                       "^com\\.sublimetext\\.",
                       "^com\\.microsoft\\.VSCode$",
+                      "^com\\.microsoft\\.VSCodeInsiders$",
                       "^com\\.todesktop\\.230313mzl4w4u92$"
                     ],
                     "type": "frontmost_application_unless"
