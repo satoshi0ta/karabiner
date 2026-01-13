@@ -542,7 +542,10 @@
                                             "^org\\.macosforge\\.xquartz\\.X11$",
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
-                                            "^com\\.microsoft\\.VSCode$"
+                                            "^com\\.microsoft\\.VSCode$",
+                                            "^com\\.microsoft\\.VSCodeInsiders$",
+                                            "^com\\.todesktop\\.230313mzl4w4u92$",
+                                            "^dev\\.zed\\.Zed$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -614,7 +617,10 @@
                                             "^org\\.macosforge\\.xquartz\\.X11$",
                                             "^org\\.macports\\.X11$",
                                             "^com\\.sublimetext\\.",
-                                            "^com\\.microsoft\\.VSCode$"
+                                            "^com\\.microsoft\\.VSCode$",
+                                            "^com\\.microsoft\\.VSCodeInsiders$",
+                                            "^com\\.todesktop\\.230313mzl4w4u92$",
+                                            "^dev\\.zed\\.Zed$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
