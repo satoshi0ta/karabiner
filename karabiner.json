@@ -96,7 +96,8 @@
                                             "^com\\.sublimetext\\.",
                                             "^com\\.microsoft\\.VSCode$",
                                             "^com\\.microsoft\\.VSCodeInsiders$",
-                                            "^com\\.todesktop\\.230313mzl4w4u92$"
+                                            "^com\\.todesktop\\.230313mzl4w4u92$",
+                                            "^dev\\.zed\\.Zed$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -169,7 +170,8 @@
                                             "^com\\.sublimetext\\.",
                                             "^com\\.microsoft\\.VSCode$",
                                             "^com\\.microsoft\\.VSCodeInsiders$",
-                                            "^com\\.todesktop\\.230313mzl4w4u92$"
+                                            "^com\\.todesktop\\.230313mzl4w4u92$",
+                                            "^dev\\.zed\\.Zed$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -242,7 +244,8 @@
                                             "^com\\.sublimetext\\.",
                                             "^com\\.microsoft\\.VSCode$",
                                             "^com\\.microsoft\\.VSCodeInsiders$",
-                                            "^com\\.todesktop\\.230313mzl4w4u92$"
+                                            "^com\\.todesktop\\.230313mzl4w4u92$",
+                                            "^dev\\.zed\\.Zed$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -391,7 +394,8 @@
                                             "^com\\.sublimetext\\.",
                                             "^com\\.microsoft\\.VSCode$",
                                             "^com\\.microsoft\\.VSCodeInsiders$",
-                                            "^com\\.todesktop\\.230313mzl4w4u92$"
+                                            "^com\\.todesktop\\.230313mzl4w4u92$",
+                                            "^dev\\.zed\\.Zed$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -465,7 +469,8 @@
                                             "^com\\.sublimetext\\.",
                                             "^com\\.microsoft\\.VSCode$",
                                             "^com\\.microsoft\\.VSCodeInsiders$",
-                                            "^com\\.todesktop\\.230313mzl4w4u92$"
+                                            "^com\\.todesktop\\.230313mzl4w4u92$",
+                                            "^dev\\.zed\\.Zed$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -683,7 +688,8 @@
                                             "^com\\.sublimetext\\.",
                                             "^com\\.microsoft\\.VSCode$",
                                             "^com\\.microsoft\\.VSCodeInsiders$",
-                                            "^com\\.todesktop\\.230313mzl4w4u92$"
+                                            "^com\\.todesktop\\.230313mzl4w4u92$",
+                                            "^dev\\.zed\\.Zed$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
